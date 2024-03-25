@@ -1,0 +1,46 @@
+
+/* dispositivos moviles*/
+@media only screen and(max-Width: 600px){
+body{
+    font-size: 14px;}
+}
+/*Table*/
+@media only screen and(min-Width: 601px){
+body{
+    font-size: 16px;}
+}
+/*pc*/
+@media only screen and(min-Width: 1025px){
+body{
+    font-size: 18px; 
+}
+}
+
+body{ 
+    background-color: rgba(139, 92, 5, 0.795);
+ }
+
+h1{text-align: center;
+    text-shadow: 2px 2px 2px black;}
+p{text-align: justify;
+text-shadow: 2px 2px 2px black;}
+
+.union1{
+color: gold;
+margin: 50% 20% 50% 20%;
+}
+
+
+   #d{
+    text-decoration: none;
+    text-transform:uppercase;
+color:black;
+ text-shadow: 2px 2px 2px gold;
+}
+
+  #d.hover{
+    color: coral;
+  }
+
+#jk{
+     margin-left: 90%;}
